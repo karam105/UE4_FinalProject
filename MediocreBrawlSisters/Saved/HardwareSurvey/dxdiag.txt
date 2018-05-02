@@ -1,7 +1,28 @@
 ------------------
 System Information
 ------------------
-  DxDiag Previously: Crashed in system information (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+      Time of this report: 5/1/2018, 17:39:18
+             Machine name: LLB16-02
+               Machine Id: {4992CDBA-10C6-4AA8-BB04-1C1217403989}
+         Operating System: Windows 10 Enterprise 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
+                 Language: English (Regional Setting: English)
+      System Manufacturer: Alienware
+             System Model: Alienware Aurora R5
+                     BIOS: 1.0.9
+                Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz (8 CPUs), ~3.4GHz
+                   Memory: 16384MB RAM
+      Available OS Memory: 16286MB RAM
+                Page File: 5388MB used, 13330MB available
+              Windows Dir: C:\WINDOWS
+          DirectX Version: DirectX 12
+      DX Setup Parameters: Not found
+         User DPI Setting: Using System DPI
+       System DPI Setting: 96 DPI (100 percent)
+          DWM DPI Scaling: Disabled
+                 Miracast: Available, with HDCP
+Microsoft Graphics Hybrid: Not Supported
+           DxDiag Version: 10.00.15063.0000 64bit Unicode
+  DxDiag Previously: Crashed in system information (stage 1) & Direct3D (stage 2). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
 
 ------------
 DxDiag Notes
@@ -11,6 +32,17 @@ DxDiag Notes
       Display Tab 3: No problems found.
         Sound Tab 1: No problems found.
           Input Tab: No problems found.
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (retail)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (retail)
+DirectMusic: 0/5 (retail)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
 
 ---------------
 Display Devices
@@ -24,20 +56,20 @@ Display Devices
       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
 Device Problem Code: No Problem
 Driver Problem Code: Unknown
-     Display Memory: 16239 MB
-   Dedicated Memory: 8096 MB
-      Shared Memory: 8143 MB
+     Display Memory: Unknown
+   Dedicated Memory: n/a
+      Shared Memory: n/a
        Current Mode: 1600 x 900 (32 bit) (60Hz)
        Monitor Name: Generic PnP Monitor
-      Monitor Model: DELL P2017H
-         Monitor Id: DELD095
-        Native Mode: 1600 x 900(p) (60.000Hz)
-        Output Type: Displayport External
+      Monitor Model: 
+         Monitor Id: 
+        Native Mode: 
+        Output Type: 
         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\nvldumdx.dll
-Driver File Version: 23.21.0013.8795 (English)
+Driver File Version: Unknown (Unknown)
      Driver Version: 23.21.13.8795
-        DDI Version: 12
-     Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+        DDI Version: Unknown
+     Feature Levels: Unknown
        Driver Model: WDDM 2.2
 Graphics Preemption: Pixel
  Compute Preemption: Dispatch
@@ -45,67 +77,28 @@ Graphics Preemption: Pixel
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 10/8/2017 5:00:00 PM, 944856 bytes
-        WHQL Logo'd: Yes
-    WHQL Date Stamp: Unknown
-  Device Identifier: {D7B71E3E-58C1-11CF-C351-0C131BC2DA35}
+   Driver Date/Size: Unknown, 0 bytes
+        WHQL Logo'd: n/a
+    WHQL Date Stamp: n/a
+  Device Identifier: Unknown
           Vendor ID: 0x10DE
           Device ID: 0x1B81
           SubSys ID: 0x33011028
         Revision ID: 0x00A1
- Driver Strong Name: oem8.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
+ Driver Strong Name: oem39.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
      Rank Of Driver: 00D10001
-        Video Accel: 
-        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
-   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-       D3D9 Overlay: Supported
-            DXVA-HD: Supported
-       DDraw Status: Enabled
-         D3D Status: Enabled
-         AGP Status: Enabled
-           MPO Caps: Not Supported
-        MPO Stretch: Not Supported
-    MPO Media Hints: Not Supported
-        MPO Formats: Not Supported
+        Video Accel: Unknown
+        DXVA2 Modes: Unknown
+      Deinterlace Caps: n/a
+       D3D9 Overlay: Unknown
+            DXVA-HD: Unknown
+       DDraw Status: Disabled
+         D3D Status: Not Available
+         AGP Status: Not Available
+           MPO Caps: Unknown
+        MPO Stretch: Unknown
+    MPO Media Hints: Unknown
+        MPO Formats: Unknown
 
           Card name: NVIDIA GeForce GTX 1070
        Manufacturer: NVIDIA
@@ -116,20 +109,20 @@ Hybrid Graphics GPU: Not Supported
       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
 Device Problem Code: No Problem
 Driver Problem Code: Unknown
-     Display Memory: 16239 MB
-   Dedicated Memory: 8096 MB
-      Shared Memory: 8143 MB
+     Display Memory: Unknown
+   Dedicated Memory: n/a
+      Shared Memory: n/a
        Current Mode: 1600 x 900 (32 bit) (60Hz)
        Monitor Name: Generic PnP Monitor
-      Monitor Model: DELL P2017H
-         Monitor Id: DELD095
-        Native Mode: 1600 x 900(p) (60.000Hz)
-        Output Type: Displayport External
+      Monitor Model: 
+         Monitor Id: 
+        Native Mode: 
+        Output Type: 
         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\nvldumdx.dll
-Driver File Version: 23.21.0013.8795 (English)
+Driver File Version: Unknown (Unknown)
      Driver Version: 23.21.13.8795
-        DDI Version: 12
-     Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+        DDI Version: Unknown
+     Feature Levels: Unknown
        Driver Model: WDDM 2.2
 Graphics Preemption: Pixel
  Compute Preemption: Dispatch
@@ -137,67 +130,28 @@ Graphics Preemption: Pixel
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 10/8/2017 5:00:00 PM, 944856 bytes
-        WHQL Logo'd: Yes
-    WHQL Date Stamp: Unknown
-  Device Identifier: {D7B71E3E-58C1-11CF-C351-0C131BC2DA35}
+   Driver Date/Size: Unknown, 0 bytes
+        WHQL Logo'd: n/a
+    WHQL Date Stamp: n/a
+  Device Identifier: Unknown
           Vendor ID: 0x10DE
           Device ID: 0x1B81
           SubSys ID: 0x33011028
         Revision ID: 0x00A1
- Driver Strong Name: oem8.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
+ Driver Strong Name: oem39.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
      Rank Of Driver: 00D10001
-        Video Accel: 
-        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
-   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
-       D3D9 Overlay: Supported
-            DXVA-HD: Supported
-       DDraw Status: Enabled
-         D3D Status: Enabled
-         AGP Status: Enabled
-           MPO Caps: Not Supported
-        MPO Stretch: Not Supported
-    MPO Media Hints: Not Supported
-        MPO Formats: Not Supported
+        Video Accel: Unknown
+        DXVA2 Modes: Unknown
+      Deinterlace Caps: n/a
+       D3D9 Overlay: Unknown
+            DXVA-HD: Unknown
+       DDraw Status: Disabled
+         D3D Status: Not Available
+         AGP Status: Not Available
+           MPO Caps: Unknown
+        MPO Stretch: Unknown
+    MPO Media Hints: Unknown
+        MPO Formats: Unknown
 
           Card name: Intel(R) HD Graphics 530
        Manufacturer: Intel Corporation
@@ -208,15 +162,15 @@ Hybrid Graphics GPU: Not Supported
       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
 Device Problem Code: No Problem
 Driver Problem Code: Unknown
-     Display Memory: 8271 MB
-   Dedicated Memory: 128 MB
-      Shared Memory: 8143 MB
+     Display Memory: Unknown
+   Dedicated Memory: n/a
+      Shared Memory: n/a
        Current Mode: Unknown
         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\ki119562.inf_amd64_6a130ba6366a3570\igdumdim64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\ki119562.inf_amd64_6a130ba6366a3570\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\ki119562.inf_amd64_6a130ba6366a3570\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\ki119562.inf_amd64_6a130ba6366a3570\igd12umd64.dll
-Driver File Version: 21.20.0016.4550 (English)
+Driver File Version: Unknown (Unknown)
      Driver Version: 21.20.16.4550
-        DDI Version: 12
-     Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+        DDI Version: Unknown
+     Feature Levels: Unknown
        Driver Model: WDDM 2.1
 Graphics Preemption: Triangle
  Compute Preemption: Thread
@@ -224,35 +178,35 @@ Graphics Preemption: Triangle
 Hybrid Graphics GPU: Integrated
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 11/10/2016 5:00:00 PM, 94208456 bytes
-        WHQL Logo'd: Yes
-    WHQL Date Stamp: Unknown
+   Driver Date/Size: Unknown, 0 bytes
+        WHQL Logo'd: n/a
+    WHQL Date Stamp: n/a
   Device Identifier: Unknown
           Vendor ID: 0x8086
           Device ID: 0x1912
           SubSys ID: 0x07291028
         Revision ID: 0x0006
- Driver Strong Name: oem14.inf:5f63e53470659c00:iSKLD_w10_DS:21.20.16.4550:pci\ven_8086&dev_1912&subsys_07291028
+ Driver Strong Name: oem13.inf:5f63e53470659c00:iSKLD_w10_DS:21.20.16.4550:pci\ven_8086&dev_1912&subsys_07291028
      Rank Of Driver: 00D10001
         Video Accel: Unknown
-        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeWMV9_IDCT  DXVA2_ModeVC1_IDCT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_Multiview_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  
+        DXVA2 Modes: Unknown
       Deinterlace Caps: n/a
        D3D9 Overlay: Unknown
             DXVA-HD: Unknown
-       DDraw Status: Enabled
-         D3D Status: Enabled
-         AGP Status: Enabled
-           MPO Caps: Not Supported
-        MPO Stretch: Not Supported
-    MPO Media Hints: Not Supported
-        MPO Formats: Not Supported
+       DDraw Status: Disabled
+         D3D Status: Not Available
+         AGP Status: Not Available
+           MPO Caps: Unknown
+        MPO Stretch: Unknown
+    MPO Media Hints: Unknown
+        MPO Formats: Unknown
 
 -------------
 Sound Devices
 -------------
             Description: Realtek Digital Output (Realtek Audio)
- Default Sound Playback: No
- Default Voice Playback: No
+ Default Sound Playback: Yes
+ Default Voice Playback: Yes
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0899&SUBSYS_10280729&REV_1000
         Manufacturer ID: 1
              Product ID: 100
@@ -260,14 +214,14 @@ Sound Devices
             Driver Name: RTKVHD64.sys
          Driver Version: 6.00.0001.7904 (English)
       Driver Attributes: Final Retail
-            WHQL Logo'd: n/a
+            WHQL Logo'd: Yes
           Date and Size: 8/9/2016 12:00:00 AM, 5275672 bytes
             Other Files: 
         Driver Provider: Realtek Semiconductor Corp.
          HW Accel Level: Basic
-              Cap Flags: 0x0
-    Min/Max Sample Rate: 0, 0
-Static/Strm HW Mix Bufs: 0, 0
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
  Static/Strm HW 3D Bufs: 0, 0
               HW Memory: 0
        Voice Management: No
@@ -324,14 +278,30 @@ USB Devices
 | Vendor/Product ID: 0x8086, 0xA12F
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
-| Driver: USBHUB3.SYS, 10/27/2017 12:25:38, 554400 bytes
+| Driver: USBHUB3.SYS, 11/8/2017 11:27:55, 554400 bytes
 | 
++-+ USB Input Device
+| | Vendor/Product ID: 0x0461, 0x4D65
+| | Location: Port_#0006.Hub_#0001
+| | Matching Device ID: USB\Class_03&SubClass_01
+| | Service: HidUsb
+| | Driver: hidusb.sys, 3/18/2017 13:56:35, 40960 bytes
+| | Driver: hidclass.sys, 3/18/2017 13:56:35, 180736 bytes
+| | Driver: hidparse.sys, 2/9/2018 21:39:05, 40960 bytes
+| | 
+| +-+ HID-compliant mouse
+| | | Vendor/Product ID: 0x0461, 0x4D65
+| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | Service: mouhid
+| | | Driver: mouhid.sys, 3/18/2017 13:56:35, 33280 bytes
+| | | Driver: mouclass.sys, 3/18/2017 13:56:35, 60320 bytes
+| | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x04CA, 0x0027
 | | Location: Port_#0005.Hub_#0001
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
-| | Driver: usbccgp.sys, 10/27/2017 12:25:38, 173976 bytes
+| | Driver: usbccgp.sys, 9/29/2017 22:40:03, 173976 bytes
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x04CA, 0x0027
@@ -348,22 +318,6 @@ USB Devices
 | | | | Service: kbdhid
 | | | | Driver: kbdhid.sys, 3/18/2017 13:56:35, 40448 bytes
 | | | | Driver: kbdclass.sys, 3/18/2017 13:56:35, 64416 bytes
-| | 
-+-+ USB Input Device
-| | Vendor/Product ID: 0x0461, 0x4E22
-| | Location: Port_#0007.Hub_#0001
-| | Matching Device ID: USB\Class_03&SubClass_01
-| | Service: HidUsb
-| | Driver: hidusb.sys, 3/18/2017 13:56:35, 40960 bytes
-| | Driver: hidclass.sys, 3/18/2017 13:56:35, 180736 bytes
-| | Driver: hidparse.sys, 2/9/2018 21:39:05, 40960 bytes
-| | 
-| +-+ HID-compliant mouse
-| | | Vendor/Product ID: 0x0461, 0x4E22
-| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | Service: mouhid
-| | | Driver: mouhid.sys, 3/18/2017 13:56:35, 33280 bytes
-| | | Driver: mouclass.sys, 3/18/2017 13:56:35, 60320 bytes
 
 ----------------
 Gameport Devices
@@ -434,7 +388,6 @@ Smart Tee,0x00200000,1,2,qcap.dll,10.00.15063.0000
 Overlay Mixer,0x00200000,0,0,,
 AVI Decompressor,0x00600000,1,1,quartz.dll,10.00.15063.0674
 AVI/WAV File Source,0x00400000,0,2,quartz.dll,10.00.15063.0674
-Dump,0x00200000,1,0,DvFileWriter.prm,14.00.0001.0005
 Wave Parser,0x00400000,1,1,quartz.dll,10.00.15063.0674
 MIDI Parser,0x00400000,1,1,quartz.dll,10.00.15063.0674
 Multi-file Parser,0x00400000,1,1,quartz.dll,10.00.15063.0674
