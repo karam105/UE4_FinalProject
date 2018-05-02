@@ -1,8 +1,8 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 5/1/2018, 17:39:18
-             Machine name: LLB16-02
+      Time of this report: 5/1/2018, 18:23:30
+             Machine name: LLB16-01
                Machine Id: {4992CDBA-10C6-4AA8-BB04-1C1217403989}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz (8 CPUs), ~3.4GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16286MB RAM
-                Page File: 5388MB used, 13330MB available
+                Page File: 5308MB used, 13410MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -85,7 +85,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1B81
           SubSys ID: 0x33011028
         Revision ID: 0x00A1
- Driver Strong Name: oem39.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
+ Driver Strong Name: oem38.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
      Rank Of Driver: 00D10001
         Video Accel: Unknown
         DXVA2 Modes: Unknown
@@ -138,7 +138,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1B81
           SubSys ID: 0x33011028
         Revision ID: 0x00A1
- Driver Strong Name: oem39.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
+ Driver Strong Name: oem38.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
      Rank Of Driver: 00D10001
         Video Accel: Unknown
         DXVA2 Modes: Unknown
@@ -269,6 +269,12 @@ Vendor/Product ID: 0x04CA, 0x0027
 Vendor/Product ID: 0x04CA, 0x0027
         FF Driver: n/a
 
+      Device Name: Controller (Xbox One For Windows)
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x045E, 0x02FF
+        FF Driver: n/a
+
 Poll w/ Interrupt: No
 
 -----------
@@ -278,34 +284,18 @@ USB Devices
 | Vendor/Product ID: 0x8086, 0xA12F
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
-| Driver: USBHUB3.SYS, 11/8/2017 11:27:55, 554400 bytes
+| Driver: USBHUB3.SYS, 10/27/2017 19:50:15, 554400 bytes
 | 
-+-+ USB Input Device
-| | Vendor/Product ID: 0x0461, 0x4D65
-| | Location: Port_#0006.Hub_#0001
-| | Matching Device ID: USB\Class_03&SubClass_01
-| | Service: HidUsb
-| | Driver: hidusb.sys, 3/18/2017 13:56:35, 40960 bytes
-| | Driver: hidclass.sys, 3/18/2017 13:56:35, 180736 bytes
-| | Driver: hidparse.sys, 2/9/2018 21:39:05, 40960 bytes
-| | 
-| +-+ HID-compliant mouse
-| | | Vendor/Product ID: 0x0461, 0x4D65
-| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | Service: mouhid
-| | | Driver: mouhid.sys, 3/18/2017 13:56:35, 33280 bytes
-| | | Driver: mouclass.sys, 3/18/2017 13:56:35, 60320 bytes
-| | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x04CA, 0x0027
-| | Location: Port_#0005.Hub_#0001
+| | Location: Port_#0006.Hub_#0001
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
-| | Driver: usbccgp.sys, 9/29/2017 22:40:03, 173976 bytes
+| | Driver: usbccgp.sys, 10/27/2017 19:50:15, 173976 bytes
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x04CA, 0x0027
-| | | Location: 0000.0014.0000.005.000.000.000.000.000
+| | | Location: 0000.0014.0000.006.000.000.000.000.000
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 3/18/2017 13:56:35, 40960 bytes
@@ -318,6 +308,22 @@ USB Devices
 | | | | Service: kbdhid
 | | | | Driver: kbdhid.sys, 3/18/2017 13:56:35, 40448 bytes
 | | | | Driver: kbdclass.sys, 3/18/2017 13:56:35, 64416 bytes
+| | 
++-+ USB Input Device
+| | Vendor/Product ID: 0x0461, 0x4D65
+| | Location: Port_#0007.Hub_#0001
+| | Matching Device ID: USB\Class_03&SubClass_01
+| | Service: HidUsb
+| | Driver: hidusb.sys, 3/18/2017 13:56:35, 40960 bytes
+| | Driver: hidclass.sys, 3/18/2017 13:56:35, 180736 bytes
+| | Driver: hidparse.sys, 2/9/2018 21:39:05, 40960 bytes
+| | 
+| +-+ HID-compliant mouse
+| | | Vendor/Product ID: 0x0461, 0x4D65
+| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | Service: mouhid
+| | | Driver: mouhid.sys, 3/18/2017 13:56:35, 33280 bytes
+| | | Driver: mouclass.sys, 3/18/2017 13:56:35, 60320 bytes
 
 ----------------
 Gameport Devices
@@ -876,45 +882,45 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 2304308861531710569, type 5
-Event Name: WindowsUpdateFailure3
+Fault bucket 1840561417009851752, type 5
+Event Name: AppxDeploymentFailureBlue
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.1029
-P2: 80244022
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
+P1: 80070057
+P2: 16
+P3: 3
+P4: windows.visualElements
+P5: 10.0.15063.966
+P6: 306
+P7: 
+P8: 
+P9: 
+P10: 
 
 
 +++ WER1 +++:
 Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
+Event Name: AppxDeploymentFailureBlue
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.1029
-P2: 80244022
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
+P1: 80070057
+P2: 16
+P3: 3
+P4: windows.visualElements
+P5: 10.0.15063.966
+P6: 306
+P7: 
+P8: 
+P9: 
+P10: 
 
 
 +++ WER2 +++:
-Fault bucket , type 0
+Fault bucket 2304308861531710569, type 5
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
@@ -933,7 +939,7 @@ P10: 0
 
 
 +++ WER3 +++:
-Fault bucket 2304308861531710569, type 5
+Fault bucket , type 0
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
@@ -971,7 +977,7 @@ P10: 0
 
 
 +++ WER5 +++:
-Fault bucket , type 0
+Fault bucket 2304308861531710569, type 5
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
@@ -990,7 +996,7 @@ P10: 0
 
 
 +++ WER6 +++:
-Fault bucket 2304308861531710569, type 5
+Fault bucket , type 0
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
@@ -1028,7 +1034,7 @@ P10: 0
 
 
 +++ WER8 +++:
-Fault bucket , type 0
+Fault bucket 2304308861531710569, type 5
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
@@ -1047,7 +1053,7 @@ P10: 0
 
 
 +++ WER9 +++:
-Fault bucket 2304308861531710569, type 5
+Fault bucket , type 0
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
