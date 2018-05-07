@@ -1,8 +1,8 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 5/2/2018, 20:39:27
-             Machine name: LLB16-24
+      Time of this report: 5/3/2018, 17:28:13
+             Machine name: LLB16-02
                Machine Id: {4992CDBA-10C6-4AA8-BB04-1C1217403989}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz (8 CPUs), ~3.4GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16286MB RAM
-                Page File: 5950MB used, 12768MB available
+                Page File: 5582MB used, 13136MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -85,7 +85,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1B81
           SubSys ID: 0x33011028
         Revision ID: 0x00A1
- Driver Strong Name: oem8.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
+ Driver Strong Name: oem39.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
      Rank Of Driver: 00D10001
         Video Accel: Unknown
         DXVA2 Modes: Unknown
@@ -138,7 +138,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1B81
           SubSys ID: 0x33011028
         Revision ID: 0x00A1
- Driver Strong Name: oem8.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
+ Driver Strong Name: oem39.inf:0f066de33ba9957f:Section064:23.21.13.8795:pci\ven_10de&dev_1b81&subsys_33011028
      Rank Of Driver: 00D10001
         Video Accel: Unknown
         DXVA2 Modes: Unknown
@@ -186,7 +186,7 @@ Hybrid Graphics GPU: Integrated
           Device ID: 0x1912
           SubSys ID: 0x07291028
         Revision ID: 0x0006
- Driver Strong Name: oem14.inf:5f63e53470659c00:iSKLD_w10_DS:21.20.16.4550:pci\ven_8086&dev_1912&subsys_07291028
+ Driver Strong Name: oem13.inf:5f63e53470659c00:iSKLD_w10_DS:21.20.16.4550:pci\ven_8086&dev_1912&subsys_07291028
      Rank Of Driver: 00D10001
         Video Accel: Unknown
         DXVA2 Modes: Unknown
@@ -251,12 +251,6 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
-      Device Name: Controller (Xbox One For Windows)
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x045E, 0x02FF
-        FF Driver: n/a
-
       Device Name: USB Multimedia Keyboard
          Attached: 1
     Controller ID: 0x0
@@ -284,14 +278,14 @@ USB Devices
 | Vendor/Product ID: 0x8086, 0xA12F
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
-| Driver: USBHUB3.SYS, 10/27/2017 12:25:38, 554400 bytes
+| Driver: USBHUB3.SYS, 11/8/2017 11:27:55, 554400 bytes
 | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x04CA, 0x0027
 | | Location: Port_#0005.Hub_#0001
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
-| | Driver: usbccgp.sys, 10/27/2017 12:25:38, 173976 bytes
+| | Driver: usbccgp.sys, 9/29/2017 22:40:03, 173976 bytes
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x04CA, 0x0027
@@ -310,8 +304,8 @@ USB Devices
 | | | | Driver: kbdclass.sys, 3/18/2017 13:56:35, 64416 bytes
 | | 
 +-+ USB Input Device
-| | Vendor/Product ID: 0x0461, 0x4E22
-| | Location: Port_#0007.Hub_#0001
+| | Vendor/Product ID: 0x0461, 0x4D65
+| | Location: Port_#0006.Hub_#0001
 | | Matching Device ID: USB\Class_03&SubClass_01
 | | Service: HidUsb
 | | Driver: hidusb.sys, 3/18/2017 13:56:35, 40960 bytes
@@ -319,7 +313,7 @@ USB Devices
 | | Driver: hidparse.sys, 2/9/2018 21:39:05, 40960 bytes
 | | 
 | +-+ HID-compliant mouse
-| | | Vendor/Product ID: 0x0461, 0x4E22
+| | | Vendor/Product ID: 0x0461, 0x4D65
 | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
 | | | Service: mouhid
 | | | Driver: mouhid.sys, 3/18/2017 13:56:35, 33280 bytes
@@ -337,7 +331,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 6.6 GB
+ Free Space: 20.0 GB
 Total Space: 243.1 GB
 File System: NTFS
       Model: SAMSUNG SSD PM830 2.5" 7mm 256GB
@@ -370,7 +364,7 @@ Device ID: PCI\VEN_10DE&DEV_1B81&SUBSYS_33011028&REV_A1\4&BF708D1&0&0008
    Driver: C:\Program Files\NVIDIA Corporation\Drs\nvdrsdb.bin, 1/1/2018 22:33:06, 1432368 bytes
    Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\NvContainerSetup.exe, 1.00.0007.0000 (English), 1/1/2018 23:06:46, 4187520 bytes
    Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nvdd.inf_amd64_7300df58eef97871\NvCplSetupInt.exe, 1.00.0007.0000 (English), 1/1/2018 23:06:48, 101512632 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 10/18/2017 08:57:48, 27203 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 10/18/2017 09:57:48, 27203 bytes
    Driver: C:\Program Files (x86)\NVIDIA Corporation\NvFBC\NVFBCPlugin.dll, 6.14.0013.8795 (English), 1/1/2018 23:11:44, 853584 bytes
    Driver: C:\Program Files\NVIDIA Corporation\NVFBC\NVFBCPlugin64.dll, 6.14.0013.8795 (English), 1/1/2018 23:11:48, 894544 bytes
    Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 1/1/2018 22:57:38, 857168 bytes
@@ -736,7 +730,6 @@ Smart Tee,0x00200000,1,2,qcap.dll,10.00.15063.0000
 Overlay Mixer,0x00200000,0,0,,
 AVI Decompressor,0x00600000,1,1,quartz.dll,10.00.15063.0674
 AVI/WAV File Source,0x00400000,0,2,quartz.dll,10.00.15063.0674
-Dump,0x00200000,1,0,DvFileWriter.prm,14.00.0001.0005
 Wave Parser,0x00400000,1,1,quartz.dll,10.00.15063.0674
 MIDI Parser,0x00400000,1,1,quartz.dll,10.00.15063.0674
 Multi-file Parser,0x00400000,1,1,quartz.dll,10.00.15063.0674
