@@ -1,0 +1,728 @@
+﻿Log file open, 05/08/18 19:02:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MediocreBrawlSisters
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-511500380) SRandInit(-511500380).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.263464
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.349s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am LLB16-04 (10.49.139.218:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.09-02.02.26:926][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.09-02.02.26:926][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.09-02.02.26:940][  0]LogInit: Computer: LLB16-04
+[2018.05.09-02.02.26:940][  0]LogInit: User: ly136
+[2018.05.09-02.02.26:940][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.09-02.02.26:940][  0]LogInit: High frequency timer resolution =3.328121 MHz
+[2018.05.09-02.02.26:940][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.09-02.02.26:940][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.09-02.02.26:940][  0]LogMemory: Process Physical Memory: 276.15 MB used, 276.15 MB peak
+[2018.05.09-02.02.26:940][  0]LogMemory: Process Virtual Memory: 265.02 MB used, 265.02 MB peak
+[2018.05.09-02.02.26:940][  0]LogMemory: Physical Memory: 5172.21 MB used,  11114.49 MB free, 16286.70 MB total
+[2018.05.09-02.02.26:940][  0]LogMemory: Virtual Memory: 646.84 MB used,  11114.49 MB free, 134217728.00 MB total
+[2018.05.09-02.02.26:985][  0]LogInit: Using OS detected language (en-US).
+[2018.05.09-02.02.26:985][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.09-02.02.26:990][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.09-02.02.27:371][  0]LogStreaming: Display: Took  0.386s to EndInitTextLocalization.
+[2018.05.09-02.02.27:371][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.09-02.02.27:407][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.09-02.02.27:407][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.09-02.02.27:805][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.09-02.02.27:869][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.09-02.02.27:869][  0]LogD3D11RHI:       8088/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.09-02.02.27:877][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.05.09-02.02.27:877][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.09-02.02.27:879][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.09-02.02.27:879][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.09-02.02.27:879][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.09-02.02.27:886][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.09-02.02.27:886][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.09-02.02.27:886][  0]LogWindows: EnumDisplayDevices:
+[2018.05.09-02.02.27:886][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.09-02.02.27:886][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.09-02.02.27:887][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.09-02.02.27:887][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.09-02.02.27:887][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.09-02.02.27:887][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.09-02.02.27:887][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.09-02.02.27:887][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.05.09-02.02.27:887][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.09-02.02.27:887][  0]LogD3D11RHI:   Driver Version: 390.65 (internal:23.21.13.9065, unified:390.65)
+[2018.05.09-02.02.27:887][  0]LogD3D11RHI:      Driver Date: 1-3-2018
+[2018.05.09-02.02.27:887][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.05.09-02.02.27:927][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.09-02.02.27:927][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.09-02.02.27:944][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.09-02.02.28:029][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Intermediate/Shaders/WorkingDirectory/12836/).
+[2018.05.09-02.02.28:030][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ly136/AppData/Local/Temp/UnrealShaderWorkingDir/0F8A7DBB41EB4D9BEFEA62BF603C75F2/'.
+[2018.05.09-02.02.28:219][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.09-02.02.28:231][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.09-02.02.28:243][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.09-02.02.28:255][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.09-02.02.28:266][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.09-02.02.28:278][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.09-02.02.28:290][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.09-02.02.28:302][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.09-02.02.28:307][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.09-02.02.28:318][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.09-02.02.28:329][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.09-02.02.28:339][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.09-02.02.28:349][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.09-02.02.28:360][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.09-02.02.28:370][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.09-02.02.28:392][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.09-02.02.28:392][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.09-02.02.28:403][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.09-02.02.28:404][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.09-02.02.28:441][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.09-02.02.28:451][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.09-02.02.28:464][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.09-02.02.28:475][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.09-02.02.28:486][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.09-02.02.28:498][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.09-02.02.28:498][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.09-02.02.28:623][  0]LogXGEController: Cleaning working directory: C:/Users/ly136/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.09-02.02.28:623][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.09-02.02.28:623][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.09-02.02.28:623][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.09-02.02.29:239][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.09-02.02.29:322][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/ly136/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.09-02.02.29:322][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ly136/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.09-02.02.29:322][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.09-02.02.29:322][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.09-02.02.29:322][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.09-02.02.29:322][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.09-02.02.29:337][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.09-02.02.29:350][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ly136/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.09-02.02.29:360][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.09-02.02.29:360][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.09-02.02.29:361][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.09-02.02.29:361][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.09-02.02.29:565][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.05.09-02.02.29:849][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.09-02.02.30:001][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.09-02.02.30:003][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.09-02.02.30:003][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.09-02.02.30:003][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.09-02.02.30:003][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.09-02.02.30:003][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.09-02.02.30:046][  0]LogNetVersion: MediocreBrawlSisters , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 667385240)
+[2018.05.09-02.02.30:621][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.176515 seconds
+[2018.05.09-02.02.30:628][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.09-02.02.30:628][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.09-02.02.30:628][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.09-02.02.32:592][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.09-02.02.32:629][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.09-02.02.33:092][  0]SourceControl: Source control is disabled
+[2018.05.09-02.02.33:092][  0]SourceControl: Source control is disabled
+[2018.05.09-02.02.33:118][  0]SourceControl: Source control is disabled
+[2018.05.09-02.02.33:142][  0]SourceControl: Source control is disabled
+[2018.05.09-02.02.33:783][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.09-02.02.33:978][  0]LogOcInput: OculusInput pre-init called
+[2018.05.09-02.02.34:114][  0]LogEngine: Initializing Engine...
+[2018.05.09-02.02.34:116][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.09-02.02.34:118][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.09-02.02.34:118][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.09-02.02.34:349][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.09-02.02.34:413][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.09-02.02.34:454][  0]LogInit: FAudioDevice initialized.
+[2018.05.09-02.02.34:573][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/ly136/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.09-02.02.34:578][  0]LogInit: Texture streaming: Enabled
+[2018.05.09-02.02.34:594][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.09-02.02.34:608][  0]LogInit: Transaction tracking system initialized
+[2018.05.09-02.02.34:628][  0]BlueprintLog: New page: Editor Load
+[2018.05.09-02.02.34:720][  0]LocalizationService: Localization service is disabled
+[2018.05.09-02.02.34:830][  0]LogConsoleResponse: Display: 
+[2018.05.09-02.02.34:976][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.09-02.02.34:977][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.09-02.02.34:977][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.09-02.02.34:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.09-02.02.34:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.09-02.02.35:472][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/' took 0.02s
+[2018.05.09-02.02.35:472][  0]SourceControl: Source control is disabled
+[2018.05.09-02.02.35:472][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.09-02.02.35:472][  0]LightingResults: New page: Lighting Build
+[2018.05.09-02.02.35:475][  0]MapCheck: New page: Map Check
+[2018.05.09-02.02.35:475][  0]LightingResults: New page: Lighting Build
+[2018.05.09-02.02.35:582][  0]LogTexture: Display: Building textures: title2 (BGRA8, 350X112)
+[2018.05.09-02.02.35:582][  0]LogTexture: Display: Building textures: title1 (BGRA8, 1002X106)
+[2018.05.09-02.02.35:582][  0]LogAIModule: Creating AISystem for world Menu
+[2018.05.09-02.02.35:583][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.09-02.02.35:595][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.09-02.02.35:656][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.757ms to complete.
+[2018.05.09-02.02.35:656][  0]LogFileHelpers: Loading map 'Menu' took 0.185
+[2018.05.09-02.02.35:875][  0]LogCollectionManager: Loaded 0 collections in 0.001474 seconds
+[2018.05.09-02.02.35:937][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/Collections/' took 0.01s
+[2018.05.09-02.02.35:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/Developers/ly136/Collections/' took 0.01s
+[2018.05.09-02.02.35:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/Collections/' took 0.01s
+[2018.05.09-02.02.35:938][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.09-02.02.35:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2452 classes and 558 folders.
+[2018.05.09-02.02.35:960][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.09-02.02.36:389][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.09-02.02.36:394][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.09-02.02.36:447][  0]LogSlate: Took 0.000467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.09-02.02.36:450][  0]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.09-02.02.36:464][  0]LogSlate: Took 0.004040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.09-02.02.36:607][  0]LogRenderer: Reallocating scene render targets to support 1004x456 Format 10 NumSamples 1 (Frame:1).
+[2018.05.09-02.02.36:756][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.09-02.02.36:772][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.05.09-02.02.36:802][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.09-02.02.36:802][  0]LogLoad: (Engine Initialization) Total time: 12.81 seconds
+[2018.05.09-02.02.36:802][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.09-02.02.36:813][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.09-02.02.36:834][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.09-02.02.36:872][  0]LogSlate: Took 0.003263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.09-02.02.36:906][  1]LogAssetRegistry: Asset discovery search completed in 7.3637 seconds
+[2018.05.09-02.02.36:908][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.09-02.02.36:908][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.05.09-02.07.19:692][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.09-02.07.22:351][692]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.09-02.07.22:692][692]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2018.05.09-02.07.22:692][692]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap.
+[2018.05.09-02.07.22:692][692]LoadErrors: Error: /Game/SideScrollerBP/Maps/SideScrollerExampleMap : Can't find file for asset. /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData
+[2018.05.09-02.07.22:714][692]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2018.05.09-02.07.22:714][692]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap.
+[2018.05.09-02.07.22:716][692]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2018.05.09-02.07.22:717][692]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2018.05.09-02.07.22:717][692]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2018.05.09-02.07.22:717][692]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2018.05.09-02.07.22:747][692]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData'
+[2018.05.09-02.07.22:748][692]LoadErrors: Failed to load /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData Referenced by PersistentLevel
+[2018.05.09-02.07.22:748][692]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2018.05.09-02.07.22:780][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/MmaKickMid.MmaKickMid
+[2018.05.09-02.07.22:781][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/MmaKickMid.MmaKickMid) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.22:788][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/MmaKickHigh.MmaKickHigh
+[2018.05.09-02.07.22:788][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/MmaKickHigh.MmaKickHigh) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.23:922][692]LogTexture: Display: Building textures: Vampire_masks (AutoDXT, 2048X2048)
+[2018.05.09-02.07.23:922][692]LogTexture: Display: Building textures: Vampire_normal (BC5, 2048X2048)
+[2018.05.09-02.07.23:922][692]LogTexture: Display: Building textures: Kachujin_normal (BC5, 2048X2048)
+[2018.05.09-02.07.23:922][692]LogTexture: Display: Building textures: Vampire_diffuse (AutoDXT, 2048X2048)
+[2018.05.09-02.07.23:922][692]LogTexture: Display: Building textures: Kachujin_diffuse (AutoDXT, 2048X2048)
+[2018.05.09-02.07.23:922][692]LogTexture: Display: Building textures: Kachujin_Mask (AutoDXT, 2048X2048)
+[2018.05.09-02.07.24:848][692]LogTexture: Display: Building textures: Vampire_emission (AutoDXT, 512X512)
+[2018.05.09-02.07.24:852][692]LogSkeletalMesh: Building Skeletal Mesh kachujin_g_rosales...
+[2018.05.09-02.07.24:876][692]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/SideScrollerBP/Imports/Girl/kachujin_g_rosales.kachujin_g_rosales
+[2018.05.09-02.07.24:994][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/BoxingVamp_mid.BoxingVamp_mid
+[2018.05.09-02.07.24:994][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/BoxingVamp_mid.BoxingVamp_mid) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.24:996][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/BoxingVamp_low.BoxingVamp_low
+[2018.05.09-02.07.24:996][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/BoxingVamp_low.BoxingVamp_low) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.24:997][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/BoxingVamp_high.BoxingVamp_high
+[2018.05.09-02.07.24:997][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/BoxingVamp_high.BoxingVamp_high) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:028][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/HeavyVamp_low.HeavyVamp_low
+[2018.05.09-02.07.25:028][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/HeavyVamp_low.HeavyVamp_low) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:029][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/Idle.Idle
+[2018.05.09-02.07.25:029][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/Idle.Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:031][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/HeavyVamp_mid.HeavyVamp_mid
+[2018.05.09-02.07.25:031][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/HeavyVamp_mid.HeavyVamp_mid) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:032][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/HeavyVamp_high.HeavyVamp_high
+[2018.05.09-02.07.25:032][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/HeavyVamp_high.HeavyVamp_high) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:034][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/Jump.Jump
+[2018.05.09-02.07.25:034][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/Jump.Jump) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:036][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/Walking.Walking
+[2018.05.09-02.07.25:036][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/Walking.Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:126][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/Jump.Jump
+[2018.05.09-02.07.25:126][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/Jump.Jump) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:128][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/PunchingHigh.PunchingHigh
+[2018.05.09-02.07.25:128][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/PunchingHigh.PunchingHigh) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:141][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/notMariaIdle.notMariaIdle
+[2018.05.09-02.07.25:141][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/notMariaIdle.notMariaIdle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:143][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/PunchingLow.PunchingLow
+[2018.05.09-02.07.25:143][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/PunchingLow.PunchingLow) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:145][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/PunchingMid.PunchingMid
+[2018.05.09-02.07.25:145][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/PunchingMid.PunchingMid) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.25:148][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/Walking.Walking
+[2018.05.09-02.07.25:148][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/Walking.Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.28:533][692]LogMaterial: Missing cached shader map for material Kachujin_Mat, compiling. 
+[2018.05.09-02.07.28:630][692]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.05.09-02.07.28:630][692]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.05.09-02.07.28:630][692]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.05.09-02.07.28:630][692]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.05.09-02.07.28:635][692]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/LegSweepLow.LegSweepLow
+[2018.05.09-02.07.28:635][692]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/LegSweepLow.LegSweepLow) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.07.28:741][692]LogSkeletalMesh: Building Skeletal Mesh vampire_a_lusth...
+[2018.05.09-02.07.28:770][692]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/SideScrollerBP/Imports/Vampire/vampire_a_lusth.vampire_a_lusth
+[2018.05.09-02.07.28:772][692]LogMaterial: Missing cached shader map for material Vamp_alpha_Mat, compiling. 
+[2018.05.09-02.07.28:865][692]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.05.09-02.07.28:901][692]Cmd: MAP LOAD FILE="../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.09-02.07.28:901][692]LightingResults: New page: Lighting Build
+[2018.05.09-02.07.28:901][692]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2018.05.09-02.07.28:902][692]MapCheck: New page: Map Check
+[2018.05.09-02.07.28:902][692]LightingResults: New page: Lighting Build
+[2018.05.09-02.07.28:927][692]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.09-02.07.28:966][692]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.09-02.07.29:078][692]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.466ms to complete.
+[2018.05.09-02.07.29:078][692]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.178
+[2018.05.09-02.07.30:950][850]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.05.09-02.07.31:163][869]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.05.09-02.07.31:274][879]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.05.09-02.07.32:485][988]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.05.09-02.07.33:069][ 39]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.05.09-02.07.33:257][ 56]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.05.09-02.07.33:464][ 74]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.05.09-02.07.34:904][203]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.05.09-02.07.35:546][259]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.05.09-02.07.35:578][261]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.05.09-02.07.35:719][273]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.05.09-02.07.37:260][415]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.05.09-02.07.37:580][444]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.05.09-02.07.37:762][461]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.05.09-02.07.38:046][487]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.05.09-02.07.39:590][621]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.05.09-02.07.39:670][628]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.05.09-02.07.40:216][675]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.05.09-02.07.40:581][705]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.09-02.07.42:014][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.05.09-02.07.42:152][837]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.09-02.08.58:825][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.09-02.09.32:640][192]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/ly136/Downloads/Body Block.fbx)
+[2018.05.09-02.09.32:664][192]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.09-02.09.32:665][192]LogFbx: ItemName: Model, ItemCount : 65
+[2018.05.09-02.09.32:665][192]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.05.09-02.09.32:665][192]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.09-02.09.32:665][192]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.09-02.09.32:665][192]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.05.09-02.09.32:665][192]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.05.09-02.09.32:673][192]LogFbx: Loading FBX Scene from ../../../../../../Users/ly136/Downloads/Body Block.fbx
+[2018.05.09-02.09.32:699][192]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.09-02.09.41:447][192]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.05.09-02.09.41:481][192]LogFbx: Loading FBX Scene from ../../../../../../Users/ly136/Downloads/Body Block.fbx
+[2018.05.09-02.09.41:505][192]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(0) Hips
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(1) Spine
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(2) Spine1
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(3) Spine2
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(4) Neck
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(5) Head
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(8) LeftArm
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(10) LeftHand
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(31) RightShoulder
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(32) RightArm
+[2018.05.09-02.09.41:511][192]LogFbx: SortedLinks :(33) RightForeArm
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(34) RightHand
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(35) RightHandThumb1
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(36) RightHandThumb2
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(37) RightHandThumb3
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(38) RightHandThumb4
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(39) RightHandIndex1
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(40) RightHandIndex2
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(41) RightHandIndex3
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(42) RightHandIndex4
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(56) LeftLeg
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(57) LeftFoot
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(61) RightLeg
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(62) RightFoot
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(63) RightToeBase
+[2018.05.09-02.09.41:512][192]LogFbx: SortedLinks :(64) RightToe_End
+[2018.05.09-02.09.41:513][192]LogFbx: Parsing AnimStack mixamo.com
+[2018.05.09-02.09.41:517][192]LogLinker: Can't find file '/Game/SideScrollerBP/Imports/Vampire/Anims/Body_Block'
+[2018.05.09-02.09.41:517][192]LogLinker: Can't find file '/Game/SideScrollerBP/Imports/Vampire/Anims/Body_Block'
+[2018.05.09-02.09.41:770][192]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Vampire/Anims/Body_Block.Body_Block
+[2018.05.09-02.09.41:772][192]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Body_Block) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.09.46:584][732]LogSavePackage: Save=12.41ms
+[2018.05.09-02.09.46:584][732]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/Body_Block6226FFEF4D2E6CB425250FAE4953806B.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Vampire/Anims/Body_Block.uasset'
+[2018.05.09-02.09.46:627][732]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Vampire/Anims/Body_Block.uasset
+[2018.05.09-02.09.54:091][205]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/ly136/Downloads/new_blocks/new_blocks/notMariaBlock.fbx)
+[2018.05.09-02.09.54:101][205]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.09-02.09.54:101][205]LogFbx: ItemName: Model, ItemCount : 65
+[2018.05.09-02.09.54:101][205]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.05.09-02.09.54:101][205]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.09-02.09.54:101][205]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.09-02.09.54:101][205]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.05.09-02.09.54:101][205]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.05.09-02.09.54:107][205]LogFbx: Loading FBX Scene from ../../../../../../Users/ly136/Downloads/new_blocks/new_blocks/notMariaBlock.fbx
+[2018.05.09-02.09.54:134][205]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.09-02.10.00:081][205]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.05.09-02.10.00:113][205]LogFbx: Loading FBX Scene from ../../../../../../Users/ly136/Downloads/new_blocks/new_blocks/notMariaBlock.fbx
+[2018.05.09-02.10.00:140][205]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(0) Hips
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(1) Spine
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(2) Spine1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(3) Spine2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(4) Neck
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(5) Head
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(8) LeftArm
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(10) LeftHand
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(31) RightShoulder
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(32) RightArm
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(33) RightForeArm
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(34) RightHand
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(39) RightHandThumb1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(40) RightHandThumb2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(41) RightHandThumb3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(42) RightHandThumb4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(56) LeftLeg
+[2018.05.09-02.10.00:142][205]LogFbx: SortedLinks :(57) LeftFoot
+[2018.05.09-02.10.00:143][205]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.05.09-02.10.00:143][205]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.05.09-02.10.00:143][205]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.05.09-02.10.00:143][205]LogFbx: SortedLinks :(61) RightLeg
+[2018.05.09-02.10.00:143][205]LogFbx: SortedLinks :(62) RightFoot
+[2018.05.09-02.10.00:143][205]LogFbx: SortedLinks :(63) RightToeBase
+[2018.05.09-02.10.00:143][205]LogFbx: SortedLinks :(64) RightToe_End
+[2018.05.09-02.10.00:143][205]LogFbx: Parsing AnimStack mixamo.com
+[2018.05.09-02.10.00:146][205]LogLinker: Can't find file '/Game/SideScrollerBP/Imports/Girl/anims/notMariaBlock'
+[2018.05.09-02.10.00:146][205]LogLinker: Can't find file '/Game/SideScrollerBP/Imports/Girl/anims/notMariaBlock'
+[2018.05.09-02.10.00:525][205]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/Imports/Girl/anims/notMariaBlock.notMariaBlock
+[2018.05.09-02.10.00:525][205]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.notMariaBlock) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.09-02.10.07:227][983]LogSavePackage: Save=11.40ms
+[2018.05.09-02.10.07:227][983]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/notMariaBlockAF9D31B64EC3C92B8C5A0081F3636D80.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Girl/anims/notMariaBlock.uasset'
+[2018.05.09-02.10.07:236][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Girl/anims/notMariaBlock.uasset
+[2018.05.09-02.10.25:191][110]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.09-02.10.25:464][110]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.05.09-02.10.25:467][110]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.05.09-02.10.25:719][110]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.09-02.10.26:368][110]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.05.09-02.10.26:662][110]LogSlate: Took 0.004401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.09-02.10.26:711][110]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.05.09-02.10.32:406][769]LogSlate: Took 0.003863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.09-02.11.45:496][232]LogSavePackage: Save=103.24ms
+[2018.05.09-02.11.45:496][232]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/vampire_a_lusth_Skeleton_AnimBluC1E3D3A24EE2A771689E41939D3E2614.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Vampire/vampire_a_lusth_Skeleton_AnimBlueprint.uasset'
+[2018.05.09-02.11.45:506][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Vampire/vampire_a_lusth_Skeleton_AnimBlueprint.uasset
+[2018.05.09-02.11.58:941][788]LogSavePackage: Save=104.05ms
+[2018.05.09-02.11.58:941][788]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/vampire_a_lusth_Skeleton_AnimBluF393F9794AD26A6CEA21E984C1FED7E9.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Vampire/vampire_a_lusth_Skeleton_AnimBlueprint.uasset'
+[2018.05.09-02.11.58:951][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Vampire/vampire_a_lusth_Skeleton_AnimBlueprint.uasset
+[2018.05.09-02.11.59:776][886]BlueprintLog: New page: Compile vampire_a_lusth_Skeleton_AnimBlueprint
+[2018.05.09-02.12.46:198][610]BlueprintLog: New page: Compile vampire_a_lusth_Skeleton_AnimBlueprint
+[2018.05.09-02.12.46:489][610]LogSavePackage: Save=105.19ms
+[2018.05.09-02.12.46:489][610]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/vampire_a_lusth_Skeleton_AnimBlu10AF025E4EA453A77AD67080B93C8113.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Vampire/vampire_a_lusth_Skeleton_AnimBlueprint.uasset'
+[2018.05.09-02.12.46:499][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/Vampire/vampire_a_lusth_Skeleton_AnimBlueprint.uasset
+[2018.05.09-02.15.28:852][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.05.09-02.15.28:897][944]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.05.09-02.15.29:293][944]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.09-02.15.39:485][432]LogSlate: Window 'Body_Block' being destroyed
+[2018.05.09-02.15.39:491][432]LogSlate: Window 'Body_Block' being destroyed
+[2018.05.09-02.18.06:754][326]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.05.09-02.18.07:406][326]LogSavePackage: Save=109.53ms
+[2018.05.09-02.18.07:406][326]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/SideScrollerCharacter14B20D774DCBA6E578CD05A92B8162BB.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.05.09-02.18.07:416][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.05.09-02.18.31:396][950]LogUObjectArray: Warning: Other object in slot
+[2018.05.09-02.18.32:442][950]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.045 s
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: 
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: Stack: 
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D73ABA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D710AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D711ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000C2453DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000CCFBB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000C135C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000C11E77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000C11EAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000C1326E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D2FF6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D2FFBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D322C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D3050475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D3028360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000D301B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000F05CE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000F05C1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000F05D052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000F05BD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000135DBC50 USER32.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000135DB5CF USER32.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000F05D1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000FF8C5475 UE4Editor.exe!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000FF8D6BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000FF8D6C4A UE4Editor.exe!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000FF8E4149 UE4Editor.exe!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000FF8E5B57 UE4Editor.exe!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x0000000013522784 KERNEL32.DLL!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: [Callstack] 0x00000000153E0D51 ntdll.dll!UnknownFunction []
+[2018.05.09-02.18.32:442][950]LogOutputDevice: Error: 
+[2018.05.09-02.18.32:449][950]LogStats:                SubmitErrorReport -  0.000 s
