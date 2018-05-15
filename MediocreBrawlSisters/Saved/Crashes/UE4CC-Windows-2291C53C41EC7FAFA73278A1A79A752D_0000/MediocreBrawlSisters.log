@@ -1,0 +1,808 @@
+﻿Log file open, 05/13/18 21:42:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MediocreBrawlSisters
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1315975192) SRandInit(1315975192).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259695
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.754s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am LLB16-07 (10.49.139.208:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.14-04.42.10:076][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.14-04.42.10:076][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.14-04.42.10:085][  0]LogInit: Computer: LLB16-07
+[2018.05.14-04.42.10:085][  0]LogInit: User: ly136
+[2018.05.14-04.42.10:085][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.14-04.42.10:085][  0]LogInit: High frequency timer resolution =3.328123 MHz
+[2018.05.14-04.42.10:086][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.14-04.42.10:086][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.14-04.42.10:086][  0]LogMemory: Process Physical Memory: 276.22 MB used, 276.22 MB peak
+[2018.05.14-04.42.10:086][  0]LogMemory: Process Virtual Memory: 264.76 MB used, 264.76 MB peak
+[2018.05.14-04.42.10:086][  0]LogMemory: Physical Memory: 4105.86 MB used,  12180.84 MB free, 16286.70 MB total
+[2018.05.14-04.42.10:086][  0]LogMemory: Virtual Memory: 646.58 MB used,  12180.84 MB free, 134217728.00 MB total
+[2018.05.14-04.42.10:130][  0]LogInit: Using OS detected language (en-US).
+[2018.05.14-04.42.10:130][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.14-04.42.10:136][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.14-04.42.10:542][  0]LogStreaming: Display: Took  0.412s to EndInitTextLocalization.
+[2018.05.14-04.42.10:542][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.14-04.42.10:568][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.14-04.42.10:568][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.14-04.42.11:051][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.14-04.42.11:109][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.14-04.42.11:109][  0]LogD3D11RHI:       8088/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.14-04.42.11:118][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.05.14-04.42.11:118][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.14-04.42.11:120][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.14-04.42.11:120][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.14-04.42.11:120][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.14-04.42.11:126][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.14-04.42.11:127][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.14-04.42.11:127][  0]LogWindows: EnumDisplayDevices:
+[2018.05.14-04.42.11:127][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.14-04.42.11:127][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.14-04.42.11:127][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.14-04.42.11:127][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.14-04.42.11:127][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.14-04.42.11:127][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.14-04.42.11:128][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.14-04.42.11:128][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.05.14-04.42.11:128][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.14-04.42.11:128][  0]LogD3D11RHI:   Driver Version: 390.65 (internal:23.21.13.9065, unified:390.65)
+[2018.05.14-04.42.11:128][  0]LogD3D11RHI:      Driver Date: 1-3-2018
+[2018.05.14-04.42.11:128][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.05.14-04.42.11:168][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.14-04.42.11:168][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.14-04.42.11:168][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.14-04.42.11:185][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.14-04.42.11:272][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Intermediate/Shaders/WorkingDirectory/11560/).
+[2018.05.14-04.42.11:272][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ly136/AppData/Local/Temp/UnrealShaderWorkingDir/CA421B484C00ADB5964633B53ED8F3B8/'.
+[2018.05.14-04.42.11:530][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.14-04.42.11:544][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.14-04.42.11:558][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.14-04.42.11:570][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.14-04.42.11:583][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.14-04.42.11:595][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.14-04.42.11:608][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.14-04.42.11:620][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.14-04.42.11:626][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.14-04.42.11:639][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.14-04.42.11:649][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.14-04.42.11:660][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.14-04.42.11:672][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.14-04.42.11:683][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.14-04.42.11:694][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.14-04.42.11:717][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.14-04.42.11:717][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.14-04.42.11:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.14-04.42.11:730][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.14-04.42.11:766][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.14-04.42.11:778][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.14-04.42.11:789][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.14-04.42.11:799][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.14-04.42.11:811][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.14-04.42.11:822][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.14-04.42.11:822][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.14-04.42.11:958][  0]LogXGEController: Cleaning working directory: C:/Users/ly136/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.14-04.42.11:958][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.14-04.42.11:958][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.14-04.42.11:958][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.14-04.42.12:707][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.14-04.42.12:808][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/ly136/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.14-04.42.12:808][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ly136/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.14-04.42.12:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.14-04.42.12:808][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.14-04.42.12:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.14-04.42.12:809][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.14-04.42.12:825][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.14-04.42.12:838][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ly136/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.14-04.42.12:838][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.14-04.42.12:838][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.14-04.42.12:849][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.14-04.42.12:849][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.14-04.42.12:850][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.14-04.42.12:851][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.14-04.42.13:175][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.05.14-04.42.13:483][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.14-04.42.13:642][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.14-04.42.13:645][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.14-04.42.13:645][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.14-04.42.13:645][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.14-04.42.13:645][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.14-04.42.13:645][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.14-04.42.13:688][  0]LogNetVersion: MediocreBrawlSisters , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 667385240)
+[2018.05.14-04.42.14:238][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.158352 seconds
+[2018.05.14-04.42.14:243][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.14-04.42.14:243][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.14-04.42.14:243][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.14-04.42.16:240][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.14-04.42.16:279][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.14-04.42.16:765][  0]SourceControl: Source control is disabled
+[2018.05.14-04.42.16:765][  0]SourceControl: Source control is disabled
+[2018.05.14-04.42.16:792][  0]SourceControl: Source control is disabled
+[2018.05.14-04.42.16:818][  0]SourceControl: Source control is disabled
+[2018.05.14-04.42.17:506][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.14-04.42.17:733][  0]LogOcInput: OculusInput pre-init called
+[2018.05.14-04.42.17:868][  0]LogEngine: Initializing Engine...
+[2018.05.14-04.42.17:871][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.14-04.42.17:873][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.14-04.42.17:873][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.14-04.42.18:123][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.14-04.42.18:148][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.14-04.42.18:174][  0]LogInit: FAudioDevice initialized.
+[2018.05.14-04.42.18:262][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/ly136/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.14-04.42.18:278][  0]LogInit: Texture streaming: Enabled
+[2018.05.14-04.42.18:298][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.14-04.42.18:359][  0]LogInit: Transaction tracking system initialized
+[2018.05.14-04.42.18:388][  0]BlueprintLog: New page: Editor Load
+[2018.05.14-04.42.18:471][  0]LocalizationService: Localization service is disabled
+[2018.05.14-04.42.18:599][  0]LogConsoleResponse: Display: 
+[2018.05.14-04.42.18:756][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.14-04.42.18:757][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.14-04.42.18:757][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.14-04.42.18:757][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.14-04.42.18:757][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.14-04.42.19:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/' took 0.02s
+[2018.05.14-04.42.19:321][  0]SourceControl: Source control is disabled
+[2018.05.14-04.42.19:321][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.14-04.42.19:321][  0]LightingResults: New page: Lighting Build
+[2018.05.14-04.42.19:325][  0]MapCheck: New page: Map Check
+[2018.05.14-04.42.19:325][  0]LightingResults: New page: Lighting Build
+[2018.05.14-04.42.19:363][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ad5546900, Size=128, Default__MainMenu_C Function /Game/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.05.14-04.42.19:369][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ad5546900, Size=128
+[2018.05.14-04.42.19:370][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ad5546900, Size=128, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_0:ExecuteUbergraph_MainMenu
+[2018.05.14-04.42.19:376][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ad5545680, Size=128, Default__MainMenu_C Function /Game/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.05.14-04.42.19:379][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ab8ed7f70, Size=24, Default__MenuController_C Function /Game/SideScrollerBP/Blueprints/MenuController.MenuController_C:ExecuteUbergraph_MenuController
+[2018.05.14-04.42.19:380][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ab8ed7f70, Size=24
+[2018.05.14-04.42.19:380][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ab8ed7f70, Size=24, Default__MenuController_C Function /Engine/Transient.REINST_MenuController_C_4:ExecuteUbergraph_MenuController
+[2018.05.14-04.42.19:382][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ab8ed7ca0, Size=24, Default__MenuController_C Function /Game/SideScrollerBP/Blueprints/MenuController.MenuController_C:ExecuteUbergraph_MenuController
+[2018.05.14-04.42.19:387][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ad58966b8, Size=4, Default__Menu_C Function /Game/SideScrollerBP/Maps/Menu.Menu_C:ExecuteUbergraph_Menu
+[2018.05.14-04.42.19:388][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ad58966b8, Size=4
+[2018.05.14-04.42.19:388][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ad58966b8, Size=4, Default__Menu_C Function /Engine/Transient.REINST_Menu_C_8:ExecuteUbergraph_Menu
+[2018.05.14-04.42.19:389][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ad5897730, Size=4, Default__Menu_C Function /Game/SideScrollerBP/Maps/Menu.Menu_C:ExecuteUbergraph_Menu
+[2018.05.14-04.42.19:440][  0]LogAIModule: Creating AISystem for world Menu
+[2018.05.14-04.42.19:441][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.14-04.42.19:452][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ad5546900, Size=128
+[2018.05.14-04.42.19:452][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ab8ed7f70, Size=24
+[2018.05.14-04.42.19:452][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ad58966b8, Size=4
+[2018.05.14-04.42.19:452][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.14-04.42.19:529][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.123ms to complete.
+[2018.05.14-04.42.19:530][  0]LogFileHelpers: Loading map 'Menu' took 0.209
+[2018.05.14-04.42.19:662][  0]LogCollectionManager: Loaded 0 collections in 0.001647 seconds
+[2018.05.14-04.42.19:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/Collections/' took 0.01s
+[2018.05.14-04.42.19:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/Developers/ly136/Collections/' took 0.01s
+[2018.05.14-04.42.19:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/Collections/' took 0.01s
+[2018.05.14-04.42.19:708][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.14-04.42.19:716][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2452 classes and 558 folders.
+[2018.05.14-04.42.19:723][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.14-04.42.19:811][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.14-04.42.19:817][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.14-04.42.19:834][  0]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.14-04.42.19:837][  0]LogSlate: Took 0.000614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.14-04.42.19:846][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.14-04.42.19:952][  0]LogRenderer: Reallocating scene render targets to support 1004x456 Format 10 NumSamples 1 (Frame:1).
+[2018.05.14-04.42.20:041][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.14-04.42.20:054][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.05.14-04.42.20:084][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.14-04.42.20:084][  0]LogLoad: (Engine Initialization) Total time: 13.46 seconds
+[2018.05.14-04.42.20:084][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.14-04.42.20:450][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.14-04.42.20:772][  1]LogAssetRegistry: Asset discovery search completed in 7.6186 seconds
+[2018.05.14-04.42.20:774][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.14-04.42.20:774][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2018.05.14-04.42.21:426][  3]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.14-04.42.24:762][ 13]LogSlate: Took 0.000402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.14-04.46.45:422][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.14-04.46.50:104][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af2fa10c0, Size=3472, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.05.14-04.46.50:136][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af30f3580, Size=2128, Default__SideScrollerCharacter2_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter2.SideScrollerCharacter2_C:ExecuteUbergraph_SideScrollerCharacter2
+[2018.05.14-04.46.50:143][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af2870e80, Size=88, Default__vampire_a_lusth_Skeleton_AnimBlueprint_C Function /Game/SideScrollerBP/Imports/Vampire/vampire_a_lusth_Skeleton_AnimBlueprint.vampire_a_lusth_Skeleton_AnimBlueprint_C:ExecuteUbergraph_vampire_a_lusth_Skeleton_AnimBlueprint
+[2018.05.14-04.46.50:151][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af2f58450, Size=80, Default__notMaria_animBP_C Function /Game/SideScrollerBP/Imports/Girl/notMaria_animBP.notMaria_animBP_C:ExecuteUbergraph_notMaria_animBP
+[2018.05.14-04.46.50:241][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af2f58450, Size=80
+[2018.05.14-04.46.50:241][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acd5e5710, Size=80, Default__notMaria_animBP_C Function /Engine/Transient.REINST_notMaria_animBP_C_0:ExecuteUbergraph_notMaria_animBP
+[2018.05.14-04.46.50:242][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af2870e80, Size=88
+[2018.05.14-04.46.50:242][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acd5fa1a0, Size=88, Default__vampire_a_lusth_Skeleton_AnimBlueprint_C Function /Engine/Transient.REINST_vampire_a_lusth_Skeleton_AnimBlueprint_C_1:ExecuteUbergraph_vampire_a_lusth_Skeleton_AnimBlueprint
+[2018.05.14-04.46.50:244][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af2fa10c0, Size=3472
+[2018.05.14-04.46.50:244][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acd5f10c0, Size=3472, Default__SideScrollerCharacter_C Function /Engine/Transient.REINST_SideScrollerCharacter_C_10:ExecuteUbergraph_SideScrollerCharacter
+[2018.05.14-04.46.50:245][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af30f3580, Size=2128
+[2018.05.14-04.46.50:245][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ace21cb80, Size=2128, Default__SideScrollerCharacter2_C Function /Engine/Transient.REINST_SideScrollerCharacter2_C_11:ExecuteUbergraph_SideScrollerCharacter2
+[2018.05.14-04.46.50:311][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdd4dd50, Size=80, Default__notMaria_animBP_C Function /Game/SideScrollerBP/Imports/Girl/notMaria_animBP.notMaria_animBP_C:ExecuteUbergraph_notMaria_animBP
+[2018.05.14-04.46.50:314][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdd29f60, Size=88, Default__vampire_a_lusth_Skeleton_AnimBlueprint_C Function /Game/SideScrollerBP/Imports/Vampire/vampire_a_lusth_Skeleton_AnimBlueprint.vampire_a_lusth_Skeleton_AnimBlueprint_C:ExecuteUbergraph_vampire_a_lusth_Skeleton_AnimBlueprint
+[2018.05.14-04.46.50:320][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdcbe080, Size=3472, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.05.14-04.46.50:327][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdc1a080, Size=2128, Default__SideScrollerCharacter2_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter2.SideScrollerCharacter2_C:ExecuteUbergraph_SideScrollerCharacter2
+[2018.05.14-04.46.50:419][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdb53dd8, Size=24, Default__SideScrollerGameMode_C Function /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C:ExecuteUbergraph_SideScrollerGameMode
+[2018.05.14-04.46.50:420][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdb53dd8, Size=24
+[2018.05.14-04.46.50:420][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdb53dd8, Size=24, Default__SideScrollerGameMode_C Function /Engine/Transient.REINST_SideScrollerGameMode_C_18:ExecuteUbergraph_SideScrollerGameMode
+[2018.05.14-04.46.50:422][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdb538c8, Size=24, Default__SideScrollerGameMode_C Function /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C:ExecuteUbergraph_SideScrollerGameMode
+[2018.05.14-04.46.50:426][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdc49660, Size=96, Default__Timer_C Function /Game/Widgets/Timer.Timer_C:ExecuteUbergraph_Timer
+[2018.05.14-04.46.50:430][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdc49660, Size=96
+[2018.05.14-04.46.50:430][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdc49660, Size=96, Default__Timer_C Function /Engine/Transient.REINST_Timer_C_1:ExecuteUbergraph_Timer
+[2018.05.14-04.46.50:433][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdc4a680, Size=96, Default__Timer_C Function /Game/Widgets/Timer.Timer_C:ExecuteUbergraph_Timer
+[2018.05.14-04.46.50:458][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdcda000, Size=128, Default__MatchEnd_C Function /Game/Widgets/MatchEnd.MatchEnd_C:ExecuteUbergraph_MatchEnd
+[2018.05.14-04.46.50:465][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdcda000, Size=128
+[2018.05.14-04.46.50:465][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdcda000, Size=128, Default__MatchEnd_C Function /Engine/Transient.REINST_MatchEnd_C_4:ExecuteUbergraph_MatchEnd
+[2018.05.14-04.46.50:470][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdcdac80, Size=128, Default__MatchEnd_C Function /Game/Widgets/MatchEnd.MatchEnd_C:ExecuteUbergraph_MatchEnd
+[2018.05.14-04.46.50:479][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ace6ad600, Size=800, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.05.14-04.46.50:492][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ace6ad600, Size=800
+[2018.05.14-04.46.50:492][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ace6ad600, Size=800, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_24:ExecuteUbergraph_SideScrollerExampleMap
+[2018.05.14-04.46.50:501][345]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ace6acb80, Size=800, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.05.14-04.46.50:543][345]LogSkeletalMesh: Skeletal Mesh found in DDC [3.550049ms] /Game/SideScrollerBP/Imports/Vampire/vampire_a_lusth.vampire_a_lusth
+[2018.05.14-04.46.50:551][345]LogSkeletalMesh: Skeletal Mesh found in DDC [1.821147ms] /Game/SideScrollerBP/Imports/Girl/kachujin_g_rosales.kachujin_g_rosales
+[2018.05.14-04.46.50:853][345]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.05.14-04.46.50:875][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acd5f10c0, Size=3472
+[2018.05.14-04.46.50:875][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ace21cb80, Size=2128
+[2018.05.14-04.46.50:875][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acd5fa1a0, Size=88
+[2018.05.14-04.46.50:875][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acd5e5710, Size=80
+[2018.05.14-04.46.50:876][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdb53dd8, Size=24
+[2018.05.14-04.46.50:876][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdc49660, Size=96
+[2018.05.14-04.46.50:876][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdcda000, Size=128
+[2018.05.14-04.46.50:876][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ace6ad600, Size=800
+[2018.05.14-04.46.50:879][345]Cmd: MAP LOAD FILE="../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.14-04.46.50:879][345]LightingResults: New page: Lighting Build
+[2018.05.14-04.46.50:879][345]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2018.05.14-04.46.50:882][345]MapCheck: New page: Map Check
+[2018.05.14-04.46.50:882][345]LightingResults: New page: Lighting Build
+[2018.05.14-04.46.50:892][345]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ad5897730, Size=4
+[2018.05.14-04.46.50:897][345]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.14-04.46.50:936][345]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.14-04.46.51:041][345]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.59ms to complete.
+[2018.05.14-04.46.51:041][345]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.163
+[2018.05.14-04.46.54:491][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdd099b0, Size=16, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.46.54:502][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdd099b0, Size=16
+[2018.05.14-04.46.54:502][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acdffed90, Size=16, Default__elyNotDouglas_animBP_C Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_2:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.46.54:507][718]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] IDLE to PunchLow  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.46.54:513][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ac6cc53a0, Size=16, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.46.54:515][718]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0287.90] Compile of elyNotDouglas_animBP successful, but with 1 Warning(s) [in 15 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.46.54:582][718]LogSkeletalMesh: Skeletal Mesh found in DDC [1.818442ms] /Game/SideScrollerBP/Imports/notDouglas/ely_k_atienza.ely_k_atienza
+[2018.05.14-04.46.54:591][718]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.14-04.46.54:847][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.05.14-04.46.54:851][718]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.05.14-04.46.55:129][718]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.05.14-04.46.55:434][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b061f8c10, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.14-04.46.55:435][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b061f8c08, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.14-04.46.55:818][718]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.05.14-04.46.56:106][718]LogSlate: Took 0.002796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.14-04.46.56:170][718]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.05.14-04.46.56:226][718]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.14-04.47.30:946][985]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ae2c661d0, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.47.30:951][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ae2c661d0, Size=4
+[2018.05.14-04.47.30:951][985]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ae2c661d0, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_4:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.47.30:961][985]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ae2c65560, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.47.45:680][ 89]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ae2c65560, Size=4
+[2018.05.14-04.47.45:680][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea1ada8, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_5:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.47.45:691][ 89]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea1b610, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.47.49:279][320]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.47.49:293][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea1b610, Size=4
+[2018.05.14-04.47.49:293][320]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea1b610, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_6:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.47.49:308][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ac6cc53a0, Size=16
+[2018.05.14-04.47.49:308][320]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b18a77980, Size=16, elyNotDouglas_animBP_C_2 Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_7:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.47.49:313][320]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] IDLE to PunchLow  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.47.49:313][320]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] PunchLow to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.47.49:319][320]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b18a755d0, Size=16, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.47.49:420][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdffed90, Size=16
+[2018.05.14-04.47.49:420][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ae2c661d0, Size=4
+[2018.05.14-04.47.49:420][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea1ada8, Size=4
+[2018.05.14-04.47.49:421][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea1b610, Size=4
+[2018.05.14-04.47.49:564][320]LogSavePackage: Save=86.89ms
+[2018.05.14-04.47.49:564][320]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBP34652E2343642EAAAF4B62BFF48A6493.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.47.49:575][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.47.49:583][320]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0342.97] Compile of elyNotDouglas_animBP successful, but with 2 Warning(s) [in 303 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.48.00:879][ 55]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.48.00:910][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b18a755d0, Size=16
+[2018.05.14-04.48.00:911][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0e5820f0, Size=16, Default__elyNotDouglas_animBP_C Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_9:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.00:917][ 55]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] PunchLow to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.48.00:924][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0f155610, Size=16, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.01:028][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b18a77980, Size=16
+[2018.05.14-04.48.01:167][ 55]LogSavePackage: Save=92.65ms
+[2018.05.14-04.48.01:167][ 55]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBP2A99FD07454D9E8EC8F35DA1E99193A1.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.48.01:178][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.48.01:181][ 55]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0354.56] Compile of elyNotDouglas_animBP successful, but with 1 Warning(s) [in 302 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.48.20:596][317]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.48.20:629][317]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0f155610, Size=16
+[2018.05.14-04.48.20:629][317]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0ed2b5d0, Size=16, elyNotDouglas_animBP_C_7 Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_11:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.20:644][317]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024aef6c4f10, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.20:748][317]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0e5820f0, Size=16
+[2018.05.14-04.48.20:890][317]LogSavePackage: Save=96.53ms
+[2018.05.14-04.48.20:890][317]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBP8DFF113C43616869027BF1BECCB1673A.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.48.20:902][317]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.48.27:680][769]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ae2c65368, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.27:687][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ae2c65368, Size=4
+[2018.05.14-04.48.27:687][769]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ae2c65368, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_13:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.27:700][769]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ae2c64808, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.27:708][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ae2c64808, Size=4
+[2018.05.14-04.48.27:708][769]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea19310, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_14:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.27:723][769]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea19cf0, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.35:503][255]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea19cf0, Size=4
+[2018.05.14-04.48.35:503][255]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0416c898, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_15:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.35:520][255]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0416eb98, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.42:205][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0416eb98, Size=4
+[2018.05.14-04.48.42:206][690]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5fe0bf0, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_16:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.42:217][690]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5fe0260, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.42:223][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5fe0260, Size=4
+[2018.05.14-04.48.42:223][690]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5fe0260, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_17:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.48.42:235][690]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5fe10a8, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.49.39:732][958]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.05.14-04.49.39:762][958]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.05.14-04.49.40:171][958]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.14-04.49.45:386][318]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5fe10a8, Size=4
+[2018.05.14-04.49.45:386][318]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b26cf01c0, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_18:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.49.45:398][318]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b26cf0d18, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.49.48:348][520]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.49.48:364][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b26cf0d18, Size=4
+[2018.05.14-04.49.48:364][520]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f1c6b0, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_19:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.49.48:383][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024aef6c4f10, Size=20
+[2018.05.14-04.49.48:383][520]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ace594f40, Size=20, Default__elyNotDouglas_animBP_C Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_20:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.49.48:389][520]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] IDLE to HighKick  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.49.48:389][520]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] HighKick to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.49.48:395][520]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ae2b09078, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.49.48:498][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5fe0260, Size=4
+[2018.05.14-04.49.48:498][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5fe0bf0, Size=4
+[2018.05.14-04.49.48:498][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0416c898, Size=4
+[2018.05.14-04.49.48:498][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea19310, Size=4
+[2018.05.14-04.49.48:498][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0ed2b5d0, Size=16
+[2018.05.14-04.49.48:498][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ae2c65368, Size=4
+[2018.05.14-04.49.48:498][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b26cf01c0, Size=4
+[2018.05.14-04.49.48:499][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f1c6b0, Size=4
+[2018.05.14-04.49.48:646][520]LogSavePackage: Save=87.01ms
+[2018.05.14-04.49.48:646][520]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBP5C347AAB40C58664F43BA3A355E3A1A8.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.49.48:656][520]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.49.48:664][520]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0462.05] Compile of elyNotDouglas_animBP successful, but with 2 Warning(s) [in 315 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.50.04:042][544]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.50.04:071][544]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ae2b09078, Size=20
+[2018.05.14-04.50.04:071][544]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024aefcf0b20, Size=20, elyNotDouglas_animBP_C_12 Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_22:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.50.04:077][544]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] HighKick to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.50.04:084][544]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024aefcf3460, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.50.04:179][544]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ace594f40, Size=20
+[2018.05.14-04.50.04:319][544]LogSavePackage: Save=93.14ms
+[2018.05.14-04.50.04:319][544]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBP09CE85AE45F6CD724F282C9A8CA19758.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.50.04:329][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.50.04:333][544]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0477.72] Compile of elyNotDouglas_animBP successful, but with 1 Warning(s) [in 289 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.50.19:644][593]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.14-04.50.30:583][334]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.05.14-04.50.30:831][334]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.05.14-04.50.31:164][334]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.14-04.51.44:276][  4]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.51.44:304][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024aefcf3460, Size=20
+[2018.05.14-04.51.44:304][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea2d9a8, Size=20, Default__elyNotDouglas_animBP_C Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_24:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.51.44:316][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea2f5b0, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.51.44:412][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024aefcf0b20, Size=20
+[2018.05.14-04.51.44:542][  4]LogSavePackage: Save=85.80ms
+[2018.05.14-04.51.44:542][  4]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBPDD17E119488AA116BB1B0A98584A092B.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.51.44:552][  4]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.52.06:593][706]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b322e6408, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.06:598][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b322e6408, Size=4
+[2018.05.14-04.52.06:598][706]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b322e6408, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_26:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.06:610][706]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b322e6138, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.06:616][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b322e6138, Size=4
+[2018.05.14-04.52.06:616][706]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b322e6138, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_27:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.06:627][706]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b322e6a68, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.18:015][543]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b322e6a68, Size=4
+[2018.05.14-04.52.18:015][543]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b26cf1c08, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_28:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.18:027][543]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b26cf0c10, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.24:372][ 16]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b26cf0c10, Size=4
+[2018.05.14-04.52.24:372][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f1ef70, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_29:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.24:383][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f1cf50, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.24:389][ 16]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f1cf50, Size=4
+[2018.05.14-04.52.24:389][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f1cf50, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_30:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.24:401][ 16]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f1fc50, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.30:868][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f1fc50, Size=4
+[2018.05.14-04.52.30:868][496]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0b8b1908, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_31:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.30:880][496]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0b8b1978, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.34:189][740]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.52.34:205][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0b8b1978, Size=4
+[2018.05.14-04.52.34:205][740]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea1b870, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_32:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.34:221][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea2f5b0, Size=20
+[2018.05.14-04.52.34:221][740]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3a5acfa0, Size=20, elyNotDouglas_animBP_C_17 Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_33:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.34:227][740]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] IDLE to HighMid  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.52.34:227][740]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] HighMid to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.52.34:234][740]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3a5ad480, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.34:334][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0b8b1908, Size=4
+[2018.05.14-04.52.34:334][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f1cf50, Size=4
+[2018.05.14-04.52.34:334][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f1ef70, Size=4
+[2018.05.14-04.52.34:335][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b26cf1c08, Size=4
+[2018.05.14-04.52.34:335][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b322e6138, Size=4
+[2018.05.14-04.52.34:335][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea2d9a8, Size=20
+[2018.05.14-04.52.34:335][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b322e6408, Size=4
+[2018.05.14-04.52.34:335][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea1b870, Size=4
+[2018.05.14-04.52.34:476][740]LogSavePackage: Save=90.62ms
+[2018.05.14-04.52.34:476][740]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBPD77548EC43C5614D70EC38AD1F4B997B.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.52.34:486][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.52.34:494][740]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0627.88] Compile of elyNotDouglas_animBP successful, but with 2 Warning(s) [in 304 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.52.59:821][685]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.52.59:851][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3a5ad480, Size=20
+[2018.05.14-04.52.59:851][685]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3c20cbc8, Size=20, Default__elyNotDouglas_animBP_C Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_35:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.59:857][685]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] IDLE to HighMid  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.52.59:857][685]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] HighMid to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.52.59:863][685]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3c20d780, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.52.59:955][685]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3a5acfa0, Size=20
+[2018.05.14-04.52.59:966][685]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0653.35] Compile of elyNotDouglas_animBP successful, but with 2 Warning(s) [in 144 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.53.16:531][949]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.53.16:562][949]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3c20d780, Size=20
+[2018.05.14-04.53.16:562][949]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3ac6fbf8, Size=20, elyNotDouglas_animBP_C_22 Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_37:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.53.16:568][949]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] HighMid to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.53.16:575][949]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3ac6d048, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.53.16:667][949]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3c20cbc8, Size=20
+[2018.05.14-04.53.16:803][949]LogSavePackage: Save=91.93ms
+[2018.05.14-04.53.16:803][949]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBPF356CB97403AFE7BDAC088AE33BC74F5.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.53.16:813][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.53.16:818][949]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0670.20] Compile of elyNotDouglas_animBP successful, but with 1 Warning(s) [in 286 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.53.36:523][439]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.53.36:554][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3ac6d048, Size=20
+[2018.05.14-04.53.36:554][439]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3a814e80, Size=20, Default__elyNotDouglas_animBP_C Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_39:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.53.36:567][439]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3baf6800, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.53.36:658][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3ac6fbf8, Size=20
+[2018.05.14-04.53.36:794][439]LogSavePackage: Save=92.15ms
+[2018.05.14-04.53.36:794][439]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBPB9A80E9D4C58556A816D22A991B41BD0.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.53.36:805][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.53.48:597][270]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b26cf1108, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.17:082][412]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.54.17:098][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b26cf1108, Size=4
+[2018.05.14-04.54.17:098][412]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b322e5f58, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_41:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.17:114][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3baf6800, Size=20
+[2018.05.14-04.54.17:114][412]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3d90c370, Size=20, elyNotDouglas_animBP_C_27 Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_42:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.17:127][412]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3d90fc70, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.17:220][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3a814e80, Size=20
+[2018.05.14-04.54.17:220][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b322e5f58, Size=4
+[2018.05.14-04.54.17:360][412]LogSavePackage: Save=91.28ms
+[2018.05.14-04.54.17:360][412]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBPFE0D8E0A4DFA34922225DB82E96A302E.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.54.17:369][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.54.24:766][948]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b26cf04f0, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.24:772][948]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b26cf04f0, Size=4
+[2018.05.14-04.54.24:772][948]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b26cf04f0, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_44:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.24:785][948]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f1ce68, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.24:792][948]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f1ce68, Size=4
+[2018.05.14-04.54.24:792][948]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f1ce68, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_45:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.24:804][948]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f1f240, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.42:102][126]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f1f240, Size=4
+[2018.05.14-04.54.42:102][126]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea18528, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_46:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.42:114][126]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea19760, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.54:271][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea19760, Size=4
+[2018.05.14-04.54.54:271][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea19760, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_47:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.54:283][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024acea1a1d8, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.54:290][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea1a1d8, Size=4
+[2018.05.14-04.54.54:290][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f6d828, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_48:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.54.54:302][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024af5f6e758, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.55.22:101][103]LogSkeletalMesh: Skeletal Mesh found in DDC [1.124357ms] /Game/SideScrollerBP/Imports/TheBoss/theboss.theboss
+[2018.05.14-04.55.22:129][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.05.14-04.55.22:155][103]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.05.14-04.55.22:474][103]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.14-04.55.53:585][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f6e758, Size=4
+[2018.05.14-04.55.53:585][412]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b39b1f220, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_49:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.55.53:598][412]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b39b1d800, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.SKEL_elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.55.57:531][697]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.55.57:547][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b39b1d800, Size=4
+[2018.05.14-04.55.57:547][697]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3d915870, Size=4, Default__SKEL_elyNotDouglas_animBP_C Function /Engine/Transient.REINST_SKEL_elyNotDouglas_animBP_C_50:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.55.57:565][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3d90fc70, Size=20
+[2018.05.14-04.55.57:565][697]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0e4e1a08, Size=20, Default__elyNotDouglas_animBP_C Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_51:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.55.57:572][697]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] IDLE to KickLow  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.55.57:572][697]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] KickLow to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.55.57:579][697]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b0e4e0790, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.55.57:684][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b39b1f220, Size=4
+[2018.05.14-04.55.57:684][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f6d828, Size=4
+[2018.05.14-04.55.57:684][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea19760, Size=4
+[2018.05.14-04.55.57:684][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acea18528, Size=4
+[2018.05.14-04.55.57:684][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024af5f1ce68, Size=4
+[2018.05.14-04.55.57:684][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3d90c370, Size=20
+[2018.05.14-04.55.57:684][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b26cf04f0, Size=4
+[2018.05.14-04.55.57:689][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3d915870, Size=4
+[2018.05.14-04.55.57:837][697]LogSavePackage: Save=98.14ms
+[2018.05.14-04.55.57:837][697]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBP112D956B4AF4F4742C53E8BD1AAADF3D.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.55.57:847][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.55.57:856][697]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0831.24] Compile of elyNotDouglas_animBP successful, but with 2 Warning(s) [in 324 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.56.14:477][949]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.56.14:510][949]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0e4e0790, Size=20
+[2018.05.14-04.56.14:510][949]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b39c20c40, Size=20, elyNotDouglas_animBP_C_32 Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_53:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.56.14:517][949]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] KickLow to IDLE  will never be taken, please connect something to  Can Enter Transition
+[2018.05.14-04.56.14:525][949]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b39c21ea0, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.56.14:620][949]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b0e4e1a08, Size=20
+[2018.05.14-04.56.14:760][949]LogSavePackage: Save=97.67ms
+[2018.05.14-04.56.14:760][949]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBP2BBDE34746A45C00CB39068563D3D647.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.56.14:770][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.56.14:775][949]LogBlueprint: Warning: [Compiler elyNotDouglas_animBP] [0848.16] Compile of elyNotDouglas_animBP successful, but with 1 Warning(s) [in 297 ms] (/Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP)
+[2018.05.14-04.56.34:194][405]BlueprintLog: New page: Compile elyNotDouglas_animBP
+[2018.05.14-04.56.34:228][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b39c21ea0, Size=20
+[2018.05.14-04.56.34:228][405]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3db32320, Size=20, Default__elyNotDouglas_animBP_C Function /Engine/Transient.REINST_elyNotDouglas_animBP_C_55:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.56.34:242][405]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b3db30778, Size=20, Default__elyNotDouglas_animBP_C Function /Game/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.elyNotDouglas_animBP_C:ExecuteUbergraph_elyNotDouglas_animBP
+[2018.05.14-04.56.34:336][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b39c20c40, Size=20
+[2018.05.14-04.56.34:479][405]LogSavePackage: Save=98.73ms
+[2018.05.14-04.56.34:480][405]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/elyNotDouglas_animBP90BF01EE430CB612AFE1D881B74EF42D.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset'
+[2018.05.14-04.56.34:489][405]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Imports/notDouglas/elyNotDouglas_animBP.uasset
+[2018.05.14-04.56.54:504][849]LogRenderer: Reallocating scene render targets to support 1004x720 Format 10 NumSamples 1 (Frame:1).
+[2018.05.14-04.57.39:861][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.14-04.57.39:938][253]BlueprintLog: New page: Compile SideScrollerCharacter2
+[2018.05.14-04.57.40:062][253]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdc1a080, Size=2128
+[2018.05.14-04.57.40:062][253]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b5f91a080, Size=2128, Default__SideScrollerCharacter2_C Function /Engine/Transient.REINST_SideScrollerCharacter2_C_100:ExecuteUbergraph_SideScrollerCharacter2
+[2018.05.14-04.57.40:080][253]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b5800d600, Size=2128, Default__SideScrollerCharacter2_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter2.SideScrollerCharacter2_C:ExecuteUbergraph_SideScrollerCharacter2
+[2018.05.14-04.57.40:420][253]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024b3db32320, Size=20
+[2018.05.14-04.57.40:628][253]LogSavePackage: Save=106.12ms
+[2018.05.14-04.57.40:628][253]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/SideScrollerCharacter2A7DA885E43278FC0549267BEB181BC57.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Blueprints/SideScrollerCharacter2.uasset'
+[2018.05.14-04.57.40:637][253]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Blueprints/SideScrollerCharacter2.uasset
+[2018.05.14-04.57.49:022][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.14-04.57.55:671][377]LogAnimation: Warning: AnimBP vampire_a_lusth_Skeleton_AnimBlueprint_C is incompatible with skeleton ely_k_atienza_Skeleton, removing AnimBP from actor.
+[2018.05.14-04.57.55:671][377]LogAnimation: Warning: AnimBP vampire_a_lusth_Skeleton_AnimBlueprint_C is incompatible with skeleton ely_k_atienza_Skeleton, removing AnimBP from actor.
+[2018.05.14-04.57.55:672][377]LogAnimation: Warning: AnimBP vampire_a_lusth_Skeleton_AnimBlueprint_C is incompatible with skeleton ely_k_atienza_Skeleton, removing AnimBP from actor.
+[2018.05.14-04.57.55:672][377]LogAnimation: Warning: AnimBP vampire_a_lusth_Skeleton_AnimBlueprint_C is incompatible with skeleton ely_k_atienza_Skeleton, removing AnimBP from actor.
+[2018.05.14-04.58.16:312][900]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.05.14-04.58.16:403][900]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024acdcbe080, Size=3472
+[2018.05.14-04.58.16:403][900]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024adc86d0c0, Size=3472, Default__SideScrollerCharacter_C Function /Engine/Transient.REINST_SideScrollerCharacter_C_110:ExecuteUbergraph_SideScrollerCharacter
+[2018.05.14-04.58.16:428][900]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024b5bc7b040, Size=3472, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.05.14-04.58.16:997][900]LogSavePackage: Save=115.50ms
+[2018.05.14-04.58.16:997][900]LogSavePackage: Moving '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Saved/SideScrollerCharacter5F7F6AA44C7E09468525738BCDC0FBD0.tmp' to '../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.05.14-04.58.17:007][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ly136/Desktop/UE4_FinalProject/MediocreBrawlSisters/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.05.14-04.58.18:463][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.14-04.58.18:493][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.05.14-04.58.18:495][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.14-04.58.18:496][ 19]PIE: New page: PIE session: SideScrollerExampleMap (May 13, 2018, 2:58:18 PM)
+[2018.05.14-04.58.18:497][ 19]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.05.14-04.58.18:526][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027775s)
+[2018.05.14-04.58.18:526][ 19]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.05.14-04.58.18:527][ 19]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2018.05.14-04.58.18:527][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.029010s)
+[2018.05.14-04.58.18:571][ 19]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.14-04.58.18:592][ 19]LogInit: FAudioDevice initialized.
+[2018.05.14-04.58.18:638][ 19]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.05.14-04.58.18:642][ 19]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.05.13-21.58.18
+[2018.05.14-04.58.18:647][ 19]LogWorld: Bringing up level for play took: 0.007070
+[2018.05.14-04.58.18:662][ 19]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.14-04.58.18:668][ 19]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.14-04.58.18:669][ 19]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2018.05.14-04.58.18:669][ 19]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2018.05.14-04.58.18:671][ 19]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.14-04.58.18:677][ 19]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.617
+[2018.05.14-04.58.18:677][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.05.14-04.58.37:919][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.05.14-04.58.37:966][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.05.14-04.58.43:291][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.14-04.59.29:920][924]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.05.14-04.59.30:140][924]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2018.05.14-04.59.30:443][924]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.14-04.59.38:373][424]LogUObjectArray: Warning: Other object in slot
+[2018.05.14-04.59.39:354][424]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.980 s
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: 
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: Stack: 
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000024CFB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000024A5AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000024A6ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000020533DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000001EAFB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000001D9FC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000001D8877AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000001D88AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000001D9C6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000021796057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000002179BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000219CC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000217F0475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000217C8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000217BB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000003434E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000034341B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000003435052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000003433D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000006436BC50 USER32.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x000000006436B5CF USER32.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000034351666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000EB5C5475 UE4Editor.exe!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000EB5D6BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000EB5D6C4A UE4Editor.exe!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000EB5E4177 UE4Editor.exe!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x00000000EB5E5B87 UE4Editor.exe!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000063D82784 KERNEL32.DLL!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: [Callstack] 0x0000000064720D51 ntdll.dll!UnknownFunction []
+[2018.05.14-04.59.39:354][424]LogOutputDevice: Error: 
+[2018.05.14-04.59.39:355][424]LogStats:                SubmitErrorReport -  0.000 s
