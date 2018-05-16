@@ -1,4 +1,4 @@
-# Dual Showdown Source Code
+# Mediocre Brawl Sisters Source Code
 
 ## Team
 - Logan Jenson (Sound Designer and QA)
@@ -23,4 +23,3 @@
 
 ### Important Links
 - [Google Drive Folder](https://drive.google.com/drive/folders/1n86TuDVoW3Xwhlw5wktDT61JHORSCs4U?usp=sharing)
-- Trello Board (TBD)
